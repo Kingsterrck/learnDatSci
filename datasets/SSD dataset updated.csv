@@ -1,4 +1,4 @@
-﻿Brand,name,Interface,Protocol,capacity (G),read,write,TBW,price,Additional
+﻿Brand,name,Interface,Protocol,capacity,read,write,TBW,price,Additional
 Samsung,980 PRO,PCIe 4.0x4,NVMe M.2,500,6900,5000,600,699,30
 Samsung,980 PRO,PCIe 4.0x4,NVMe M.2,1000,7000,5000,600,1199,30
 Samsung,980 PRO,PCIe 4.0x4,NVMe M.2,2000,7000,5100,600,2499,30
